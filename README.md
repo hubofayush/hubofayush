@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hello World! 👋
 
-I'm Ayush Amberkar, a full-stack developer from Ratnagiri 🏖️ currently pursuing B.E. in Information Technology (3rd year). 💻✨
+I'm Ayush Amberkar, developer from Ratnagiri 🏖️ currently pursuing B.E. in Information Technology (final year). 💻✨
 
 - 🚀 My tech stack includes a versatile mix of technologies such as React ⚛️, Node.js 🚀, Express.js 🌐, and MongoDB 🍃, empowering me to develop scalable and efficient web applications. 🔧
   
